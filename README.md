@@ -1,4 +1,4 @@
-#  Projeto Carrinho de compras.
+#  Projeto Carrinho de compras🛒
 
 ## O projeto tem como intuito colocar em prática  o aprendizado sobre Lists.
 ### O programa  registra as compras feitas em uma List e calcula o valor de acordo com o limite do  carta, podendo concluir ou não a compra.
